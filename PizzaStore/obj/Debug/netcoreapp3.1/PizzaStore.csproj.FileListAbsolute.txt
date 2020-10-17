@@ -1,0 +1,11 @@
+C:\Users\thema\Source\Repos\PizzaStore\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.exe
+C:\Users\thema\Source\Repos\PizzaStore\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.deps.json
+C:\Users\thema\Source\Repos\PizzaStore\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.runtimeconfig.json
+C:\Users\thema\Source\Repos\PizzaStore\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.runtimeconfig.dev.json
+C:\Users\thema\Source\Repos\PizzaStore\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.dll
+C:\Users\thema\Source\Repos\PizzaStore\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.pdb
+C:\Users\thema\Source\Repos\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.csprojAssemblyReference.cache
+C:\Users\thema\Source\Repos\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.AssemblyInfoInputs.cache
+C:\Users\thema\Source\Repos\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.AssemblyInfo.cs
+C:\Users\thema\Source\Repos\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.dll
+C:\Users\thema\Source\Repos\PizzaStore\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.pdb
